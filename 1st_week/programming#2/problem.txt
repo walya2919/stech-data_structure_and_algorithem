@@ -1,0 +1,25 @@
+make a python program and submit the source code and result screen shot via e-class
+
+ 
+
+conditions for the program
+
+-----------------
+
+  Input : numbers from user entered
+
+  Output : sorted numbers (print out)
+
+ 
+
+  - operation1: copy input numbers to originData (program takes input operations from a user, multiple data)
+
+  - operation2: sorting the numbers (data should store the form of list ..[1, 2, 3, 4, ..])
+
+  - operation3: copy the result to destData
+
+  - operation4: print out the sorted list
+
+ 
+
+---------------------
